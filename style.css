@@ -22,3 +22,58 @@ section li { margin-bottom: 8px; }
 /* Footer */
 footer { text-align: center; background: #1e1e2f; color: #fff; padding: 15px; font-size: 0.9em; }
 footer a { color: #ff9800; text-decoration: none; }
+
+/* --------------------
+   PROJECTS SECTION
+-------------------- */
+#projects {
+  padding: 50px 20px;
+  background: #f9f9f9;
+  text-align: center;
+}
+
+#projects h2 {
+  font-size: 2em;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.project {
+  display: inline-block;
+  width: 300px;
+  margin: 15px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-align: left;
+  vertical-align: top;
+}
+
+.project:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+}
+
+.project img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-bottom: 1px solid #eee;
+}
+
+.project h3 {
+  font-size: 1.2em;
+  margin: 15px;
+  color: #222;
+}
+
+.project p {
+  font-size: 0.95em;
+  margin: 0 15px 15px 15px;
+  color: #555;
+  line-height: 1.4em;
+}
+
+
