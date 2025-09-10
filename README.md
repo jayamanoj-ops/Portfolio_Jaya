@@ -28,65 +28,7 @@ I bring a unique blend of **academic leadership** and **hands-on analytics proje
 
 ---
 
-## 📂 Featured Projects
 
-
-### 1. Student Performance & Engagement Dashboard
-Python + scikit-learn + Power BI  
-📈 Forecasted academic performance with **85% accuracy**, enabling early interventions.  
-![Student Dashboard](assets/student_performance.png)
-
----
-
-### 2. Industry–Academia Skill Gap Analytics
-Python + Power BI + NLP  
-🔍 Parsed **1,000+ job postings**, aligned curriculum with industry demand, improved job readiness by **35%**.  
-![Skill Gap Dashboard](assets/skill_gap.png)
-
----
-
-### 3. Student Support Ticket Analysis
-SQL + Power BI + NLP  
-💬 Analyzed **5,000+ student queries** → reduced resolution time by **20%**, improved satisfaction by **18%**.  
-![Support Tickets](assets/support_tickets.png)
-
----
-
-### 4. Learner Sentiment Analysis
-Python + NLP + Power BI  
-📝 Analyzed **10,000+ learner feedbacks** → boosted retention by **20%**.  
-![Sentiment Analysis](assets/sentiment.png)
-
----
-
-### 5. Engineering Admission Analytics
-Power BI + Excel  
-🏫 Drill-down dashboards segmented by demographics → increased enrollment by **20%**.  
-![Admissions Dashboard](assets/admissions.png)
-
----
-
-### 6. Predictive Analytics for Student Lifecycle & Placements
-Python + Tableau + Excel  
-📊 Modeled placement probabilities → improved placement rates through better planning.  
-![Placements Dashboard](assets/placements.png)
-
----
-
-### 7. Cohort Analysis for Dropout Risk
-SQL + Tableau  
-📉 Identified high-risk cohorts → dropout reduced by **18%** through interventions.  
-![Cohort Analysis](assets/cohort.png)
-
----
-
-### 8. NBA/NAAC Accreditation Data Automation
-Excel + Power BI  
-⚡ Automated compliance reports → saved **40%** manual effort.  
-![Accreditation Dashboard](assets/accreditation.png)
-
-
----
 
 ## 🎓 Education
 - **Ph.D.** in Computer Science & Engineering – VTU, India  
@@ -118,5 +60,6 @@ To view locally:
 git clone https://github.com/jayamanoj-ops/portfolio.git
 cd portfolio
 open index.html   # or double-click index.html
+
 
 
