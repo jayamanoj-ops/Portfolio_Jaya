@@ -54,12 +54,6 @@ I bring a unique blend of **academic leadership** and **hands-on analytics proje
 
 ---
 
-## 🚀 Setup Instructions
-To view locally:
-```bash
-git clone https://github.com/jayamanoj-ops/portfolio.git
-cd portfolio
-open index.html   # or double-click index.html
 
 
 
